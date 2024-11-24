@@ -30,4 +30,5 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 - Relativity Terran R
 - LandSpace ZhuQue-2
 - Stoke Nova
+- BluShift Red Dwarf
 - And much more...
