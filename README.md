@@ -4,10 +4,10 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 # Mods that are...
 ### ...required:
 - All Realism Overhaul mods (tested in legacy 1.12.2)
+- Waterfall
 
 ### ...recommended:
 - Comformal Decals
-- Waterfall
 
 # Mod progress:
 ## Currently added:
