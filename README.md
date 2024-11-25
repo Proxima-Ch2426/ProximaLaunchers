@@ -1,10 +1,15 @@
 # Proxima Launchers
 A repository for various launch vehicles, whether it be retired, active, or in development.
 
-## Compatible/recommended mods:
+# Mods that are...
+### ...required:
 - All Realism Overhaul mods (tested in legacy 1.12.2)
-- Conformal Decals
 
+### ...recommended:
+- Comformal Decals
+- Waterfall
+
+# Mod progress:
 ## Currently added:
 - DC-XA
 - DC-Y (WIP)
@@ -13,6 +18,7 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 ### DC-XA
 
   - Add the launch infrastructure (?)
+  - Add separate aeroshell and parachute
 ### DC-Y
   - Add engines, Waterfall compatible
 
