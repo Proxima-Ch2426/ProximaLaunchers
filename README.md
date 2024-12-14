@@ -24,17 +24,20 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 
 ## Future additions:
 - MD X-33
-- LM X-33
+- Rockwell X-33
 - Kistler 1
 - RFA One
 - Astra Rocket 3.3
 - Astra Rocket 4
 - Firefly MLV
-- Gilmour Eris
-- Launcher Light
 - PLD Miura 5
 - Relativity Terran R
+- Stoke Nova
 - LandSpace ZhuQue-2
 - Stoke Nova
 - BluShift Red Dwarf
+- Falcon XX
+- Lockheed Starclipper
+- Innospace Hanbit
+- KARI Nuri
 - And much more...
