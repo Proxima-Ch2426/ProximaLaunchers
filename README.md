@@ -12,15 +12,15 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 # Mod progress:
 ## Currently added:
 - DC-XA
-- DC-Y (WIP)
+- DC-Y
 
 ## Future updates:
 ### DC-XA
 
-  - Add the launch infrastructure (?)
-  - Add separate aeroshell and parachute
+  - Overhaulled model and textures
 ### DC-Y
-  - Add engines, Waterfall compatible
+  - Add an adapter to turn it into an upper stage
+  - Add a block 2 variant (?) <i>(idea by Marc on Discord)</i>
 
 ## Future additions:
 - MD X-33
