@@ -3,27 +3,24 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 
 # Mods that are...
 ### ...required:
-- All Realism Overhaul mods (tested in legacy 1.12.2)
-- Waterfall
 
 ### ...recommended:
 - Comformal Decals
+- Waterfall
+- Real Solar System & Realism Overhaul
 
 # Mod progress:
 ## Currently added:
-- DC-XA
-- DC-Y
+- DC-XA *
+- DC-Y *
+
+*Old models and cfgs that require RSS, I plan to rework them in the future!
 
 ## Future updates:
-### DC-XA
-
-  - Overhaulled model and textures
-### DC-Y
-  - Add an adapter to turn it into an upper stage
-  - Add a block 2 variant (?) <i>(idea by Marc on Discord)</i>
+Revamp the DC-Y and make it balanced for both stock and RSS, idk why i didn't do that from the start but I think it's also a good idea to try again from the start.
 
 ## Future additions:
-- MD X-33
+- **MD X-33**
 - Rockwell X-33
 - Kistler 1
 - RFA One
@@ -32,12 +29,13 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 - Firefly MLV
 - PLD Miura 5
 - Relativity Terran R
-- Stoke Nova
+- **Stoke Nova**
 - LandSpace ZhuQue-2
-- Stoke Nova
 - BluShift Red Dwarf
-- Falcon XX
-- Lockheed Starclipper
+- **Falcon XX**
+- **Lockheed Starclipper**
 - Innospace Hanbit
 - KARI Nuri
 - And much more...
+
+(Bolded ones have more priority)
