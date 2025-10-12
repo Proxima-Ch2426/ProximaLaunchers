@@ -8,11 +8,11 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 ### ...recommended:
 - Comformal Decals
 - Waterfall
-- FAR
+- Ferram Aerospace Research
 - Deferred
 
 ### ...compatible:
-- Real Solar System & Realism Overhaul
+- RO/RP1 with RSS
 
 # Mod progress:
 ## Currently added:
