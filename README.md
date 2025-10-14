@@ -4,6 +4,8 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 # Mods that are...
 ### ...required:
 - B9PartSwitch
+- ModuleManager
+- DeployableEngines
 
 ### ...recommended:
 - Comformal Decals
