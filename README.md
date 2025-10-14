@@ -31,7 +31,6 @@ Revamp the DC-Y and make it balanced for both stock and RSS, idk why i didn't do
 - Kistler 1
 - Firefly MLV
 - Relativity Terran R
-- **Stoke Nova**
 - **Falcon XX**
 - **Lockheed Starclipper**
 - Innospace Hanbit
