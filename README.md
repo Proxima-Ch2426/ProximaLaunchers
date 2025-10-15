@@ -18,9 +18,7 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 
 # Mod progress:
 ## Currently added:
-- DC-Y *
-
-**Currently being reworked*
+- DC-Y (RO WIP)
 
 ## Future updates:
 Revamp the DC-Y and make it balanced for both stock and RSS, idk why i didn't do that from the start but I think it's also a good idea to try again from the start.
