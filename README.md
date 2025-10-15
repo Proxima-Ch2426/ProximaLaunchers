@@ -36,5 +36,6 @@ Revamp the DC-Y and make it balanced for both stock and RSS, idk why i didn't do
 - Innospace Hanbit
 - **Hope-X spaceplane**
 - MACHETE (requested by PXTSERYU on discord)
+- Arc Inversion
 
 (Bolded ones have more priority)
