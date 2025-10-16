@@ -12,6 +12,7 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 - Waterfall
 - Ferram Aerospace Research
 - Deferred
+- Community Resource Pack
 
 ### ...compatible:
 - RO/RP1 with RSS
