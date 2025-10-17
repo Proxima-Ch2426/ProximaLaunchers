@@ -19,10 +19,10 @@ A repository for various launch vehicles, whether it be retired, active, or in d
 
 # Mod progress:
 ## Currently added:
-- DC-Y (RO WIP)
+- DC-Y
 
 ## Future updates:
-HOPE-X spaceplane in the works, coming soon!
+HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
 
 ## (Possible) Future additions:
 - **MD X-33**
