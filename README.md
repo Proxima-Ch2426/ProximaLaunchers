@@ -29,12 +29,12 @@ HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
 - Rockwell X-33
 - Kistler 1
 - Firefly MLV
-- Relativity Terran R
-- **Falcon XX**
+- **Relativity Terran R**
+- Falcon XX
 - **Lockheed Starclipper**
 - Innospace Hanbit
 - **Hope-X spaceplane**
-- MACHETE (requested by PXTSERYU on discord)
-- Arc Inversion
+- **MACHETE** *(requested by PXTSERYU on discord)*
+- **Arc Inversion**
 
 (Bolded ones have more priority)
