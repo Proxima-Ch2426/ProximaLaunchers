@@ -1,5 +1,5 @@
 # Proxima Launchers
-A repository for various launch vehicles, whether it be retired, active, or in development.
+A repository for various launch vehicles, whether it be conceptual, retired, active, or in development.
 
 # Mods that are...
 ### ...required:
