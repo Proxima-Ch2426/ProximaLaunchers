@@ -28,7 +28,6 @@ HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
 - **MD X-33**
 - Rockwell X-33
 - Kistler 1
-- Firefly MLV
 - **Relativity Terran R (old design)**
 - Falcon XX
 - **Lockheed Starclipper**
@@ -36,5 +35,6 @@ HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
 - **Hope-X spaceplane**
 - **MACHETE** *(requested by PXTSERYU on discord)*
 - **Arc Inversion**
+- Boeing's HTHL RASV concept *(requested by Jcera on discord)*
 
 (Bolded ones have more priority)
