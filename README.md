@@ -19,7 +19,7 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 
 # Mod progress:
 ## Currently added:
-- DC-Y
+- DC-Y (Crew bay in the works)
 
 ## Future updates:
 HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
