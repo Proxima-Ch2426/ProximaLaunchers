@@ -37,5 +37,6 @@ HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
 - **Arc Inversion**
 - Boeing's HTHL RASV concept *(requested by Jcera on discord)*
 - **Dawn Mk-III**
+- HTV-X
 
 (Bolded ones have more priority)
