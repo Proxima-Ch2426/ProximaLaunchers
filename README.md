@@ -38,5 +38,6 @@ HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
 - Boeing's HTHL RASV concept *(requested by Jcera on discord)*
 - **Dawn Mk-III**
 - HTV-X
+- Phantom Express spaceplane
 
 (Bolded ones have more priority)
