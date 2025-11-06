@@ -28,7 +28,6 @@ Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Road
 - Falcon XX
 - **Lockheed Starclipper**
 - Innospace Hanbit
-- **Hope-X spaceplane**
 - **MACHETE** *(requested by PXTSERYU on discord)*
 - **Arc Inversion**
 - Boeing's HTHL RASV concept *(requested by Jcera on discord)*
