@@ -4,15 +4,16 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 # Mods that are...
 ### ...required:
 - B9PartSwitch
-- ModuleManager
 - DeployableEngines
+- ModuleManager
 
 ### ...recommended:
+- Atmosphere Autopilot
 - Comformal Decals
-- Waterfall
-- Ferram Aerospace Research
-- Deferred
 - Community Resource Pack
+- Deferred
+- Ferram Aerospace Research
+- Waterfall
 
 ### ...compatible:
 - RO/RP1 with RSS
