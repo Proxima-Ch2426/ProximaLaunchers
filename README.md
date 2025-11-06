@@ -18,14 +18,7 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - RO/RP1 with RSS
 
 # Mod progress:
-## Roadmap:
-Click [here](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes.
-
-## Currently added:
-- DC-Y (Crew bay in the works)
-
-## Future updates:
-HOPE-X spaceplane in the works, along with DCY's crew compartment, coming soon!
+Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes.
 
 ## (Possible) Future additions:
 - **MD X-33**
