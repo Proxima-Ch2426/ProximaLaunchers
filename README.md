@@ -18,7 +18,7 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - RO/RP1 with RSS
 
 # Mod progress:
-Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes.
+Check the [roadmap](https://github.com/Proxima-Ch2426/ProximaLaunchers/wiki/Roadmap) if you want to see what future updates might be. Subject to changes. If you want to suggest a spacecraft/spaceplane do DM me on discord or some otherway lol.
 
 ## (Possible) Future additions:
 - **MD X-33**
