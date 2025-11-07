@@ -7,12 +7,14 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - DeployableEngines
 - ModuleManager
 
+### ...extremely recommended:
+- Atmosphere Autopilot
+- Ferram Aerospace Research
+
 ### ...recommended:
-- Atmosphere Autopilot (easier aerodynamic control)
 - Comformal Decals
 - Community Resource Pack
 - Deferred
-- Ferram Aerospace Research (better aerodynamics)
 - Waterfall
 
 ### ...compatible:
