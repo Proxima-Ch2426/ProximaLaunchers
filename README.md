@@ -8,11 +8,11 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - ModuleManager
 
 ### ...recommended:
-- Atmosphere Autopilot
+- Atmosphere Autopilot (easier aerodynamic control)
 - Comformal Decals
 - Community Resource Pack
 - Deferred
-- Ferram Aerospace Research
+- Ferram Aerospace Research (better aerodynamics)
 - Waterfall
 
 ### ...compatible:
