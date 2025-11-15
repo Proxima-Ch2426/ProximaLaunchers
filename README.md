@@ -6,6 +6,7 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - B9PartSwitch
 - DeployableEngines
 - ModuleManager
+- KSPWheel
 
 ### ...extremely recommended:
 - Atmosphere Autopilot
@@ -15,6 +16,7 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - Comformal Decals
 - Community Resource Pack
 - Deferred
+- Resurfaced & Shabby
 - Waterfall
 
 ### ...compatible:
