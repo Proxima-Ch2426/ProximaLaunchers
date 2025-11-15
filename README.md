@@ -16,7 +16,7 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - Comformal Decals
 - Community Resource Pack
 - Deferred
-- Resurfaced & Shabby
+- Textures Unlimited
 - Waterfall
 
 ### ...compatible:
