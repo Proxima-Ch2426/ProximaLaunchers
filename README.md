@@ -13,10 +13,9 @@ A repository for various launch vehicles, whether it be conceptual, retired, act
 - Ferram Aerospace Research
 
 ### ...recommended:
-- Comformal Decals
 - Community Resource Pack
 - Deferred
-- Textures Unlimited
+- Resurfaced
 - Waterfall
 
 ### ...compatible:
